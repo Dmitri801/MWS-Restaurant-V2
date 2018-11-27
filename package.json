@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "server": "node server --prefix Server",
+    "start": "gulp"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
